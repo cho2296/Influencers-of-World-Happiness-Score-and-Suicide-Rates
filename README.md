@@ -1,4 +1,5 @@
 # Influencers-of-World-Happiness-Score-and-Suicide-Rates
+*group project for Data Science and Analytics Bootcamp
 
 Team Members: Leah Cho, Olga Dolzhko, Charlie Hinton, Oleksii Shumskyi
 
